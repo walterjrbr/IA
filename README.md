@@ -44,7 +44,7 @@ Protótipo de **Recuperação Aumentada por Geração (RAG)** para responder per
 
 - Assunto: RAG, LangChain, vetorização semântica, contexto externo  
 - Ferramentas: LangChain, FAISS, DeepSeek
-- 
+
 ---
 
 ## Em desenvolvimento
