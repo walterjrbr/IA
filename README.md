@@ -39,7 +39,12 @@ Treinamento de um **Variational Autoencoder (VAE)** com LSTM para geração de m
 - Ferramentas: PyTorch, RDKit, VAE, LSTM
 
 ---
+### `RAG.ipynb`
+Protótipo de **Recuperação Aumentada por Geração (RAG)** para responder perguntas com base em documentos próprios, usando embeddings e modelos de linguagem.
 
+- Assunto: RAG, LangChain, vetorização semântica, contexto externo  
+- Ferramentas: LangChain, FAISS, DeepSeek
+- 
 ---
 
 ## Em desenvolvimento
