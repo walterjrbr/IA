@@ -59,7 +59,4 @@ Dashboards interativos com previsão de mercado usando modelos de regressão em 
 
 ## Contato
 Caso tenha interesse em colaborar, contratar ou conversar sobre IA aplicada:
-
-- Email: seunome@email.com  
-- LinkedIn: [linkedin.com/in/seunome](https://linkedin.com/in/seunome)  
-- Disponível para oportunidades em IA, ciência de dados ou pesquisa aplicada
+- Disponível para oportunidades em IA, ciência de dados ou pesquisa básica/aplicada
