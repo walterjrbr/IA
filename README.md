@@ -1,53 +1,44 @@
 # Projetos Pessoais em Inteligência Artificial  
 ### Desenvolvidos de forma independente desde abril de 2024  
-[LinkedIn](https://www.linkedin.com/in/walter-augusto-jr-76425623/) • [GitHub](https://github.com/walterjrbr)
-
----
+[LinkedIn](https://www.linkedin.com/in/walter-augusto-jr-76425623/) 
 
 ## Sobre
-Este repositório reúne projetos de pesquisa e desenvolvimento com modelos de linguagem (LLMs), simulações financeiras, bioinformática com geração molecular, dashboards com machine learning e text-to-SQL, explorando aplicações práticas de IA em diferentes domínios.
+Este repositório reúne estudos e experimentos realizados com inteligência artificial e métodos computacionais aplicados à física, biologia, incerteza estatística e aprendizado por reforço com LLMs. Os notebooks documentam explorações conceituais e técnicas.
+
+
+## Notebooks incluídos
+
+### `2LTermodinâmica.ipynb`
+Estudo de segunda lei da termodinâmica com simulações computacionais. Explora conceitos fundamentais da física estatística com suporte computacional.
+
+- Assunto: Termodinâmica, entropia, sistemas isolados
+- Ferramentas: Python, Numpy, simulações numéricas
 
 ---
 
-## Estrutura dos Projetos
+### `AZR.ipynb`
+Implementação exploratória do sistema **Absolute Zero Reasoning** (AZR), com autojogos, indução via LLMs e geração de programas por reforço.
 
-### `agente-financeiro/`
-Bot inteligente com LangChain + FastAPI, que responde perguntas sobre investimentos, simula aplicações com base na Selic e TR, acessa cotações em tempo real, e resume notícias econômicas via scraping.
-
-- Tecnologias: LangChain, FastAPI, DeepSeek, Scraping, Telegram
-- Destaque: Respostas financeiras em linguagem natural com dados atualizados
+- Assunto: Raciocínio simbólico com LLMs, aprendizado por reforço com autojogo
+- Base: Artigo *"Absolute Zero: Reinforced Self-Play Reasoning with Zero Data"*
 
 ---
 
-### `text-to-sql/`
-Conversão de linguagem natural em consultas SQL para análise de bases de dados.
+### `UQ.ipynb`
+Introdução à **Quantificação de Incertezas (Uncertainty Quantification)** aplicada à modelagem matemática e simulações.
 
-- Tecnologias: LangChain, DeepSeek, DuckDB
-- Destaque: Interface com perguntas em português para geração de SQL automático
-
----
-
-### `vae-moleculas/`
-Gerador de moléculas usando VAE com LSTM treinado em SMILES reais, voltado para aplicações em neurociência e bioinformática.
-
-- Tecnologias: PyTorch, RDKit, SMILES, VAE, LSTM
-- Destaque: Geração de estruturas químicas válidas com aprendizado não supervisionado
+- Assunto: Propagação de incerteza, Monte Carlo, Sensibilidade
+- Ferramentas: Python, UQpy, SciPy
 
 ---
 
-### `uq-redes/`
-Estudos de quantificação de incertezas (UQ) e modelagem de redes complexas aplicadas a dados biológicos.
+### `VAE.ipynb`
+Treinamento de um **Variational Autoencoder (VAE)** com LSTM para geração de moléculas a partir de SMILES reais, voltado para aplicações em neurociência e bioinformática.
 
-- Tecnologias: Python, NetworkX, UQpy, leitura do livro *A Prime on UQ*
-- Destaque: Simulações numéricas com foco em confiabilidade de modelos preditivos
+- Assunto: Geração molecular, deep learning, SMILES
+- Ferramentas: PyTorch, RDKit, VAE, LSTM
 
 ---
-
-### `dashboards-financas/`
-Dashboards interativos com previsão de mercado usando modelos de regressão em Power BI.
-
-- Tecnologias: Power BI, Scikit-learn, Pandas, Jupyter
-- Destaque: Pipeline de dados e IA integrado em visualização executiva
 
 ---
 
