@@ -48,7 +48,8 @@ Protótipo de **Retrieval Augmented Generation (RAG)** para responder perguntas 
 ---
 `Fine_tuning_LORA_V2.ipynb`
 
-Fine-tuning de LLMs com QLoRA + PEFT para tarefas de classificação e geração
+Fine-tuning de LLMs com QLoRA + PEFT para tarefas de classificação e geração.
+
 Este notebook apresenta um pipeline de fine-tuning leve de modelos de linguagem (LLMs) utilizando QLoRA (Quantized Low-Rank Adaptation) em conjunto com a biblioteca PEFT.
 A proposta é adaptar LLMs para tarefas supervisionadas de classificação e geração de texto, com baixo custo computacional.
 
@@ -56,7 +57,7 @@ Técnicas: QLoRA (quantização em 4 bits + LoRA), PEFT (adaptação eficiente d
 
 Tarefas: Classificação de texto e geração condicional
 
-Ferramentas: Hugging Face Transformers, peft, bitsandbytes, DeepSeek (ou outro LLM compatível)
+Ferramentas: Hugging Face Transformers, peft, bitsandbytes, LLM
 
 ## Em desenvolvimento
 
