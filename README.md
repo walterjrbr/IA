@@ -67,6 +67,6 @@ Protótipo de agente autônomo com memória e raciocínio usando LangGraph
 
 ---
 
-## Contato
-Caso tenha interesse em colaborar, contratar ou conversar sobre IA aplicada:
+### Contato
+Caso tenha interesse em colaborar, contratar ou conversar sobre IA:
 - Disponível para oportunidades em IA, ciência de dados ou pesquisa básica/aplicada
