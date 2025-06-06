@@ -59,6 +59,8 @@ Tarefas: Classificação de texto e geração condicional
 
 Ferramentas: Hugging Face Transformers, peft, bitsandbytes, LLM
 
+---
+
 ## Em desenvolvimento
 
 - Protótipo de agente autônomo com memória e raciocínio usando LangGraph
