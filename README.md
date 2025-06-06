@@ -46,7 +46,7 @@ Protótipo de **Retrieval Augmented Generation (RAG)** para responder perguntas 
 - Ferramentas: LangChain, FAISS, DeepSeek
 
 ---
-`Fine_tuning_LORA_V2.ipynb`
+### `Fine_tuning_LORA_V2.ipynb`
 
 Fine-tuning de LLMs com QLoRA + PEFT para tarefas de classificação e geração.
 
@@ -61,7 +61,7 @@ Ferramentas: Hugging Face Transformers, peft, bitsandbytes, LLM
 
 ---
 
-## Em desenvolvimento
+### Em desenvolvimento
 
 Protótipo de agente autônomo com memória e raciocínio usando LangGraph
 
