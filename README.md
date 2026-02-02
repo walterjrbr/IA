@@ -1,4 +1,4 @@
-# Projetos Pessoais em Inteligência Artificial  
+# Projetos em Inteligência Artificial  
 ### Desenvolvidos de forma independente desde Maio de 2025 
 [LinkedIn](https://www.linkedin.com/in/walter-augusto-jr-76425623/) 
 
