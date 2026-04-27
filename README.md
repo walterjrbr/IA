@@ -61,9 +61,10 @@ Ferramentas: Hugging Face Transformers, peft, bitsandbytes, LLM
 
 ---
 
-### Em desenvolvimento
+### Finanças Quantitativas
 
-Protótipo de agente autônomo com memória e raciocínio usando LangGraph
+Desenvolvi estudos e protótipos de estratégias quantitativas aplicadas ao mercado financeiro utilizando bibliotecas como `investpy`, `vectorbt` e `backtrader`. Os projetos envolveram coleta e tratamento de dados financeiros, backtesting de estratégias, análise estatística de performance, simulação de operações e avaliação de métricas como retorno acumulado, drawdown, volatilidade e Sharpe Ratio. Também explorei automação de pipelines de análise quantitativa, validação histórica de estratégias e experimentação com diferentes abordagens de algotrading e modelagem orientada a eventos.
+
 
 ---
 
